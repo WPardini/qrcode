@@ -31,4 +31,4 @@ function redirecionar() {
 }
 
 // Chama a função de redirecionamento
-//redirecionar();
+redirecionar();
